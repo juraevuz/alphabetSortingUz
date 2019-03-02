@@ -1,2 +1,2 @@
 # alphabetSortingUz
-Ushbu algoritm soʻzlarni oʻzbek lotin alifbosi harflariga koʻra tartiblaydi.
+Ushbu algoritm soʻzlarni oʻzbek lotin alifbosi harflari tartibiga koʻra saralash algoritmi.
